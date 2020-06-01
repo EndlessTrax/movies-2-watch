@@ -9,3 +9,6 @@ __pycache__
 
 # Config.py
 config.py
+
+# Virtual Environment
+.env/
